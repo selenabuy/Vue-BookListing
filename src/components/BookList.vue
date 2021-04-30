@@ -28,5 +28,6 @@ ul {
 list-style-type : none;
 display : block;
 margin : 10px;
+padding: 0;
 }
 </style>
